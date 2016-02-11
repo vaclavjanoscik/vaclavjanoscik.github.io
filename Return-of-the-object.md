@@ -3,7 +3,7 @@ title: ooo-sr and contemporary art
 layout: page
 permalink: /return/
 ---
-## Return of the object 
+# Return of the object 
 
 # Marisa Olson 
 
@@ -17,9 +17,9 @@ Virtual space is no longer a novelty; rather it forms an intimate part of our cu
 
 *"There doesn't seem to be a need to distinguish, any more, whether technology was used in making the work - after all, everything is a technology, and everyone uses technology to do everything. What is even more interesting is the way in which people are starting to make what I've called "Post-Internet" art in my own work ..." Marisa Olson*
 
-## The Disorder of things
+# The Disorder of things
 
-##### Exhibited artists: Annabelle Arlie, Iain Ball, Delong, Constant Dullaart, Tereza Fišerová - Evžen Šimera, Martin Kohout, Martin Kolarov - Filip Dvořák, Kristýna Lutzová, Richard Nikl - Jan Brož, Nik Timková - Jakub Hošek, Viktor Vejvoda, Magdaléna Vojteková, Ted Whitaker 
+### Exhibited artists: Annabelle Arlie, Iain Ball, Delong, Constant Dullaart, Tereza Fišerová - Evžen Šimera, Martin Kohout, Martin Kolarov - Filip Dvořák, Kristýna Lutzová, Richard Nikl - Jan Brož, Nik Timková - Jakub Hošek, Viktor Vejvoda, Magdaléna Vojteková, Ted Whitaker 
 
 # Curator: Václav Janoščík 
 
