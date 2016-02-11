@@ -1,6 +1,6 @@
 ---
 title: BLA
-layout: post
+layout: page
 permalink: /test/
 ---
 # hyper-non-post
