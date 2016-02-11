@@ -1,5 +1,5 @@
 ---
-title: ooo/sr and contemporary art
+title: ooo-sr and contemporary art
 layout: page
 permalink: /return/
 ---
