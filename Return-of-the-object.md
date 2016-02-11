@@ -1,11 +1,13 @@
 ---
-title: Return of the object
+title: ooo/sr and contemporary art
 layout: page
 permalink: /return/
 ---
 # Return of the object 
 
-## Marisa Olson Curator: Václav Janoščík 
+## Marisa Olson 
+
+### Curator: Václav Janoščík 
 
 ## 11.9.-6.11.2015 
 
@@ -19,7 +21,7 @@ Virtual space is no longer a novelty; rather it forms an intimate part of our cu
 
 ## Exhibited artists: Annabelle Arlie, Iain Ball, Delong, Constant Dullaart, Tereza Fišerová - Evžen Šimera, Martin Kohout, Martin Kolarov - Filip Dvořák, Kristýna Lutzová, Richard Nikl - Jan Brož, Nik Timková - Jakub Hošek, Viktor Vejvoda, Magdaléna Vojteková, Ted Whitaker 
 
-## Curator: Václav Janoščík 
+### Curator: Václav Janoščík 
 
 ## 11.9.-6.11.2015 
 
